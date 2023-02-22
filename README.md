@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Helping Nepali Children Education</title>
+    <title>Voices Of Nepal</title>
   </head>
   <body>
     <header>
-      <h1>Helping Nepali Children Education</h1>
+      <h1>Voices of Nepal</h1>
     </header>
     <nav>
       <ul>
